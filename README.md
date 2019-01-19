@@ -1,2 +1,2 @@
-# chunked-binmedian
-A chunked Python implementation of binmedian: computing median without loading whole arrays into memory.
+# binmedian
+A Python implementation of the binmedian algorithm.
